@@ -1,0 +1,16 @@
+{
+  "name": "ltedesco-gallery",
+  "owner": {
+    "name": "ltedesco"
+  },
+  "plugins": [
+    {
+      "name": "financial-stock",
+      "source": "./financial-stock-plugin",
+      "description": "A team of subagents for stock analysis: fundamentals, technicals, news/sentiment, plus a portfolio orchestrator that synthesizes them into a Buy/Hold/Sell recommendation. All data fetched via WebFetch from public sources — no API keys required.",
+      "version": "0.1.0",
+      "category": "research",
+      "keywords": ["finance", "stocks", "investing", "research", "agents"]
+    }
+  ]
+}
