@@ -1,0 +1,8 @@
+{
+  "name": "financial-stock",
+  "version": "0.1.0",
+  "description": "A team of subagents for stock analysis: fundamentals, technicals, news/sentiment, plus a portfolio orchestrator that synthesizes them. All data fetched via WebFetch from public sources — no API keys required.",
+  "author": {
+    "name": "ltedesco"
+  }
+}

@@ -1,2 +1,18 @@
 .DS_Store
 node_modules
+
+# Claude Code — personal overrides, never share
+.claude/settings.local.json
+
+# Claude Code runtime/cache (in case anything lands in-tree)
+.claude/.last-cleanup
+.claude/backups/
+.claude/sessions/
+.claude/shell-snapshots/
+.claude/projects/
+.claude/session-env/
+
+# Editor
+.vscode/
+.idea/
+*.swp
